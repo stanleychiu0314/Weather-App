@@ -21,7 +21,7 @@ This Weather App accesses user's information to display the current weather, 24 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/stanleychiu0314/Weather-App.git
 ```
 
 Go to the project directory
